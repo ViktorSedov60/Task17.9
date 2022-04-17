@@ -10,6 +10,9 @@
 
 s = "5 6 11 13 2 3 14 1 9 15 10 8 7 6"
 n = (sorted(list(map(int, s.split()))))
+
+
+
 print(n)
 M = max(n)
 V = min(n)
