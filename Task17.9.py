@@ -4,8 +4,8 @@
 # int_list = []
 # for element in input("ведите любые целые числа в любом количестве через пробел.").split():
 #     int_list.append(int(element))
-# s = sorted(int_list)
-# print(s)
+# n = sorted(int_list)
+
 
 
 s = "5 6 11 13 2 3 14 1 9 15 10 8 7 6"
